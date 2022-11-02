@@ -1,0 +1,30 @@
+1. Eerst maake je een docuement waar je al je code in gaat schrijven.
+2. De frame rate van de pagina enzo.
+3. Dat als jij iets doet dat de pagina er op reageert.
+4. HTML, CSS en Java script.
+5. Om de main content van de pagina in een groep te doen.
+6. Je gebruikt het om de bovenkant van je website te veranderen.
+7. color="zwart" color="0,0,0" color="#0"
+8. Inline elementen starten niet van een nieuwe lijn, block elementen wel, block-inline elementen zijn er gewoon tussen in.
+9. Text afgesloten met {}
+10. p{
+color="red"
+}
+11. De float property kan je een komma getal geven zoals 5.5.
+12. In pseudo class laat een speciale staat zien van een element.
+selector:pseudo-class {
+  property: value;
+}
+13. Een vector afbeelding waarvan je de grote kan veranderen.
+14. De ruimte tussen dingen in een html pagina.
+15. De ruimte tussen de rant en een ander object op je pagina.
+16. Padding is ruimte weg van een ding zoals een foto, margin is van de rand van iets.
+17. De margin is 32 PX.
+18. Als iets op de pagina overstroomd laat dit zien wat het dan gaat doen.
+19. PX, Mm, Cm
+20. Em, Ex, Rem
+21. Ik zou zeggen absoluut want die is veel meer precies met alles neerzetten.
+22. Een formulier is een element waar je een hoop data in houd, het element is <form>
+23. HTML maakt de basis van de website terwijl CSS de details er op doet, daarom moet je eerst HTML doen en DAN CSS.
+24. Het helpt met de documentatie van de pagina's informatie samen met de header.
+25. <footer>
