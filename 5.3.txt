@@ -1,0 +1,21 @@
+Welke code hoort bij de rode box (met daarin “Content 1”) en welke code hoort bij de blauwe
+box (met daarin “Content 2”).
+
+De code met padding hoort bij 1 en de gene met margin hoort bij 2.
+Padding laat de locatie zien van wat er in de vierkant zit.
+
+
+Hoe maak ik een dollar-teken in HTML met HTML-entities?
+
+&euro;
+
+Wat doet de “@import”-regel in CSS? Bedenk een toepassing voor je eigen stylesheets
+
+Het word gebruikt om regels te gebruiken van andere sheets.
+
+Testen van je programmeerwerk kan als je denkt klaar te zijn of gedurende het bouwen. Geef
+aan hoe je getest heb en waarom je het op die manier gedaan hebt. Geef ook aan wat volgens
+jou de beste manier van testen is en waarom.
+
+Ik maak een veraandering die ik denk dat goed is en dan start ik de code op, deze manier het "Trial and error" en ik vind het de beste metode omadat ik dan snel een verandering in mijn code kan maken en dan hoopelijk snel klaar er mee kan zijn met de resultaten die ik nog wil.
+
