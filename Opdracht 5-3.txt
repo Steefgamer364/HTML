@@ -1,0 +1,4 @@
+1. <font="Mukta">
+2.@import url('wide.css') screen and (min-width: 800px);s
+De media quiry bepaald wat de maximale en minimaale grote van de pagina is etc.
+3.
