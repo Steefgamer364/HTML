@@ -1,0 +1,46 @@
+1. Media quiries zijn stukken code die worden gebruikt om layouts te maken in HTML, ze kunnen ook dingen detecteren die in de buurt gebeuren.
+
+2. 
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: tan;
+  color: black;
+}
+
+/* On screens that are 992px wide or less, the background color is blue */
+@media screen and (max-width: 992px) {
+  body {
+    background-color: blue;
+    color: white;
+  }
+}
+
+/* On screens that are 600px wide or less, the background color is olive */
+@media screen and (max-width: 600px) {
+  body {
+    background-color: olive;
+    color: white;
+  }
+}
+</style>
+</head>
+<body>
+
+<h1>Resize the browser window to see the effect!</h1>
+<p>By default, the background color of the document is "tan". If the screen size is 992px or less, the color will change to "blue". If it is 600px or less, it will change to "olive".</p>
+ 
+</body>
+</html>
+
+3. Dat betekent dat je een webkit gebruikt om de achtergrond rood te maken, hier is geen webkit voor nodig je kan ook gewoon <background: red> doen.
+
+4. Dat je de text een grote van 2 rem wilt geven. Dit kan ook gedaan worden door gewoon <font size: 2 rem> te doen, de moz is niet nodig.
+
+5.
+1. Door te testen kan je sneller vinden wat je in je code moet veranderen.
+2. Als je de code niet test dan kan het gewoon niet werken als je je eind product inleverd.
+3. Het maakt bugs vinden makelijker.
