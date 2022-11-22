@@ -1,0 +1,5 @@
+1. B, A, C 
+2. B, C, D, A 
+3. Yellow
+4. 300px
+5. 50px
