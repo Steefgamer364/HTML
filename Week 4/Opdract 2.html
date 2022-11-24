@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+    <style>
+.flex-container{
+    flex-basis: 30px;
+    display: flex;
+    flex-direction:row;
+    list-style:none;
+    border: 2px solid black;
+    flex-basis:auto;
+    flex-shrink: 1;
+    flex-grow: 1;
+    width:500px;
+    height: 200px;
+}
+
+.items-list {
+  display: grid;
+  grid-template-rows: 100px 100px;
+  grid-auto-flow: column;
+  grid-auto-columns:100px;
+ 
+  overflow: auto;
+}
+.item{
+    border: 1px solid green;
+}
+            </style>
+        </head>
+        <body>
+            <div class="flex-container">
+            <div class="items-list">
+                <div class="item">1</div>
+                <div class="item">2</div>
+                <div class="item">3</div>
+                <div class="item">4</div>
+                <div class="item">5</div>
+                <div class="item">6</div>
+                <div class="item">7</div>
+                <div class="item">8</div>
+                <div class="item">9</div>
+                <div class="item">10</div>
+                </div>
+</body>
+</html>
