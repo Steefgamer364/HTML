@@ -9,25 +9,24 @@
     <script src='main.js'></script>
     <style>
 .flex-container{
-    flex-basis: 300px;
+    flex-basis: 30px;
     display: flex;
     flex-direction:row;
     list-style:none;
     border: 2px solid black;
+    flex-basis:auto;
     flex-shrink: 1;
     flex-grow: 1;
     width:600px;
     height: 200px;
-padding-left:100px;
-padding-top:110px;
-row-gap:10px; 
+    padding-left:100px
 }
 
 .items-list {
   display: grid;
-  grid-template-columns: 25px 25px;
+  grid-template-rows: 25px 25px;
   grid-auto-flow: column;
-  grid-auto-columns:25px;
+  grid-auto-columns:100px;
   overflow: auto;
 }
 .item1{

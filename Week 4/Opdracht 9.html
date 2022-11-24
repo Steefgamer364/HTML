@@ -2,32 +2,33 @@
 <html>
 <head>
     <meta charset='utf-8'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta http-equiv
+    display: flex;
+    flex-direction:row;
+    border: 2px solid black;
+    flex-basis:auto;
+    list-style:none;
+    flex-shrink: 1;
+    flex-grow: 1;
+    width:600px;='X-UA-Compatible' content='IE=edge'>
     <title>Page Title</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
     <script src='main.js'></script>
     <style>
 .flex-container{
-    flex-basis: 300px;
-    display: flex;
-    flex-direction:row;
-    list-style:none;
-    border: 2px solid black;
-    flex-shrink: 1;
-    flex-grow: 1;
-    width:600px;
+    flex-basis: 30px;
     height: 200px;
-padding-left:100px;
-padding-top:110px;
-row-gap:10px; 
+padding-left:100px
 }
 
 .items-list {
   display: grid;
-  grid-template-columns: 25px 25px;
+  grid-template-rows: 25px 25px;
   grid-auto-flow: column;
-  grid-auto-columns:25px;
+  grid-auto-columns:100px;
+  
+ 
   overflow: auto;
 }
 .item1{
