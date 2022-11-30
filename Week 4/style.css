@@ -1,0 +1,26 @@
+.flex-container{
+    flex-basis: 30px;
+    display: flex;
+    flex-direction:column;
+    list-style:none;
+    border: 2px solid black;
+    flex-shrink: 1;
+    flex-grow: 1;
+    width:100px;
+    height: 200px;
+}
+.flex-child{
+    border: 1px solid green;
+    text-align:center;
+    width:100px;
+    height:25px;
+    display:border;
+
+}
+.flex-child2{
+    border: 1px solid green;
+    text-align:center;
+    width:110px;
+    height:25px;
+    display:border;
+}

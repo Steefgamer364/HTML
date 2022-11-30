@@ -1,0 +1,41 @@
+.flex-container{
+    flex-basis: 30px;
+    display: flex;
+    flex-direction:column-reverse;
+    list-style:none;
+    border: 2px solid black;
+    flex-shrink: 1;
+    flex-grow: 1;
+    width:100px;
+    height: 200px;
+}
+.flex-child{
+    border: 1px solid green;
+    text-align:center;
+    width:10px;
+    height:15px;
+    display:border;
+margin-left:90%;
+}
+.flex-child2{
+    border: 1px solid green;
+    text-align:center;
+    width:100px;
+    height:50px;
+    display:border;
+}
+.flex-child3{
+    border: 1px solid green;
+    text-align:center;
+    width:10px;
+    height:90px;
+    display:border;
+}
+.flex-child4{
+    border: 1px solid green;
+    text-align:center;
+    width:10px;
+    height:15px;
+    display:border;
+    margin-left:50%;
+}

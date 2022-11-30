@@ -20,6 +20,7 @@
     width:600px;
     height: 200px;
     padding-left:100px
+    
 }
 
 .items-list {
@@ -28,6 +29,7 @@
   grid-auto-flow: column;
   grid-auto-columns:100px;
   overflow: auto;
+  flex-wrap:wrap;
 }
 .item1{
     border: 1px solid green;
@@ -94,8 +96,9 @@
 
 .items-list {
   display: grid;
- width:max-content;
- grid-template-rows: 75px 75px 75px 150px;
+ width:250px;
+ grid-template-rows: 75px 75px 75px 225px;
+
 }
 .item1{
     border: 1px solid green;

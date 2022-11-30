@@ -1,0 +1,31 @@
+.flex-container{
+    flex-basis: 30px;
+    display: flex;
+    list-style:none;
+    border: 2px solid black;
+    flex-direction:row;
+    width:50;
+    height: 400px;
+flex-wrap:wrap;
+    
+}
+.flex-child{
+    border: 1px solid green;
+    text-align:center;
+    width:125px;
+    height:100px;
+flex-direction:row;
+flex-wrap:wrap;
+display:flex;
+text-align:center;
+}
+.flex-child2{
+    border: 1px solid green;
+    text-align:center;
+    width:125px;
+    height:25px;
+flex-direction:row;
+flex-wrap:wrap;
+display:flex;
+text-align:center
+}
