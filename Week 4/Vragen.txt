@@ -1,0 +1,13 @@
+1. Voor flexbox.
+2. Flexbox verandert met de grote van de pagina, grid niet.
+3. Door de commands van een grind in te voeren.
+4. Een grid container is de houder voor de grid items.
+5. De lijnen die laten zien waar de grid containers zitten.
+6. Denk het wel, zolang ze op de zelfde lijn zitten kan het.
+7. Geeft een fraktie van een ding (300px 1fr 300px)
+8. 100px.
+9. 120px
+10. 100px
+11. 200px
+12. Nee, de een 2.50% geeft een balk en de 2f 1f geeft 2 balken, het is alsof je 250px bij de een doet en bij de ander 150px 100px doet.
+13.
