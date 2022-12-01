@@ -10,4 +10,12 @@
 10. 100px
 11. 200px
 12. Nee, de een 2.50% geeft een balk en de 2f 1f geeft 2 balken, het is alsof je 250px bij de een doet en bij de ander 150px 100px doet.
-13.
+13. Dat het het omgedraaide doet van een gewone 1?
+14. Dat er meer creatieve dingen gedaan mee gedaan worden.
+15. A.
+16. A.
+17. De is in implicet en de ander is explicet.
+18. Dat blijft automatisch rows maken todat er geen ruimte meer over is.
+19. Dat het iets blijft doen todat het maximale aantal content is berijkt.
+20. Dat het iets doet met het minimale aantal content.
+21. Dat het iets doet tussen en minimaal en een maximaal aantal plek, dit moet worden gekozen.
