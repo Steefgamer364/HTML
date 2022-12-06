@@ -1,0 +1,49 @@
+.item-list{
+    background-color: salmon;
+        display:grid;
+        height: 400px;
+        width: 375px;
+        display:border;
+    }
+       .border {
+            width: 325px;
+            height: 370px;
+            outline: 2px solid black;
+            display: grid;
+            grid-template-columns: 100px 100px 100px;
+            padding: 25px;
+              }
+            
+              .item{
+                text-align:center;
+                height:75px;
+              }
+              .item:nth-child(1){
+            background-color: yellow;
+            width:75px;
+              }
+              .item:nth-child(2){
+                background-color: pink;
+                width:75px;
+            }
+            .item:nth-child(3){
+                background-color: red;
+                width:150px;
+            }
+            .item:nth-child(4){
+                background-color: blue;
+                width:75px;
+                    }
+            .item:nth-child(5){
+                background-color: purple;
+                width:75px;
+            }
+            .item:nth-child(6){
+                background-color: green;
+        width:150px;
+            }
+            .item:nth-child(7){
+        background-color: rgb(167, 167, 214);
+        height:150px;
+        width:75px;
+            }
