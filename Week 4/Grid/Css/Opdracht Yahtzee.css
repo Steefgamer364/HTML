@@ -1,0 +1,267 @@
+.item-list{
+    background-color: lightgray;    
+    display:grid;
+        height: 100%;
+        width: 100%;
+        display:border;
+}
+.border {
+    width: auto;
+    height: auto;
+    outline: 2px solid black;
+    display: grid;
+    grid-template-columns: 200px 25px 100px ;
+    grid-template-rows: 100px 100px 100px 100px 100px;
+    padding: 25px;
+    gap:100px;
+      }
+      .menu1{
+        height:500px;
+        width:250px;
+        outline: 2px solid grey;
+        display: grid;
+        grid-row:1;
+        grid-column:1;
+        grid-template-columns: 1;
+        grid-template-rows:10px 10px 10px 10px 10px 10px 10px 10px 10px;
+      }
+      .playersign{
+        outline: 2px solid grey;
+        display: grid;
+        grid-row: 1;
+        height: 50px;
+        width:250px;
+      }
+      .menutop{
+        outline: 2px solid red;
+        display: grid;
+        grid-row: 2;
+        height: 20px;
+        width: 230px;
+        margin-left:10px;
+        margin-top: 50px;
+      }
+      .text-row{
+        outline: 2px solid black;
+        display: grid;
+        grid-row: 3;
+        height: 20px;
+        width: 230px;
+        margin-left:10px;
+        margin-top: 65px;
+
+      }
+      .text-row2{
+        outline: 2px solid black;
+        display: grid;
+        grid-row:4;
+        height: 20px;
+        width: 230px;
+        margin-left:10px;
+        margin-top: 80px;
+
+      }
+      .text-row3{
+        outline: 2px solid black;
+        display: grid;
+        grid-row: 5;
+        height: 20px;
+        width: 230px;
+        margin-left:10px;
+        margin-top: 95px;
+
+      }
+      .text-row4{
+        outline: 2px solid black;
+        display: grid;
+        grid-row: 6;
+        height: 20px;
+        width: 230px;
+        margin-left:10px;
+        margin-top: 110px;
+
+      }
+      .text-row5{
+        outline: 2px solid black;
+        display: grid;
+        grid-row: 7;
+        height: 20px;
+        width: 230px;
+        margin-left:10px;
+        margin-top: 125px;
+
+      }
+      .text-row6{
+        outline: 2px solid black;
+        display: grid;
+        grid-row: 8;
+        height: 20px;
+        width: 230px;
+        margin-left:10px;
+        margin-top: 140px;
+
+      }
+      .text-row7{
+        outline: 2px solid black;
+        display: grid;
+        grid-row: 9;
+        height: 20px;
+        width: 230px;
+        margin-left:10px;
+        margin-top: 155px;
+
+      }
+
+      .menu2{
+        height:500px;
+        width:250px;
+        outline: 2px solid grey;
+        display: grid;
+        grid-row:1;
+        grid-column:3;
+        grid-template-rows:10px 10px 10px 10px 10px 10px 10px 10px ;
+      }
+      .menutop2{
+        outline: 2px solid red;
+        display: grid;
+        grid-row: 2;
+        height: 20px;
+        width: 230px;
+        margin-left:10px;
+        margin-top: 50px;
+      }
+      .text2-row{
+        outline: 2px solid black;
+        display: grid;
+        grid-row: 3;
+        grid-column: 3;
+        height: 20px;
+        width: 230px;
+        margin-left:10px;
+        margin-top: 65px;
+
+      }
+      .text2-row2{
+        outline: 2px solid black;
+        display: grid;
+        grid-row:4;
+        grid-column: 3;
+        height: 20px;
+        width: 230px;
+        margin-left:10px;
+        margin-top: 80px;
+
+      }
+      .text2-row3{
+        outline: 2px solid black;
+        display: grid;
+        grid-row: 5;
+        grid-column: 3;
+        height: 20px;
+        width: 230px;
+        margin-left:10px;
+        margin-top: 95px;
+
+      }
+      .text2-row4{
+        outline: 2px solid black;
+        display: grid;
+        grid-row: 6;
+        grid-column: 3;
+        height: 20px;
+        width: 230px;
+        margin-left:10px;
+        margin-top: 110px;
+
+      }
+      .text2-row5{
+        outline: 2px solid black;
+        display: grid;
+        grid-row: 7;
+        grid-column: 3;
+        height: 20px;
+        width: 230px;
+        margin-left:10px;
+        margin-top: 125px;
+
+      }
+      .text2-row6{
+        outline: 2px solid black;
+        display: grid;
+        grid-row: 8;
+        grid-column: 3;
+        height: 20px;
+        width: 230px;
+        margin-left:10px;
+        margin-top: 140px;
+
+      }
+      .text2-row7{
+        outline: 2px solid black;
+        display: grid;
+        grid-row: 9;
+        grid-column: 3;
+        height: 20px;
+        width: 230px;
+        margin-left:10px;
+        margin-top: 155px;
+
+      }
+
+      .dicemenu{
+        height:500px;
+        width:75px;
+        outline: 2px solid grey;
+        display: grid;
+        grid-row:1;
+        
+        grid-column:2;
+        grid-template-columns: auto;
+        grid-template-rows: 25px 25px 25px 25px 25px;
+      }
+
+      .dice{
+        height: 37.5px;
+        width: 37.5px;
+        outline: 2px solid black;
+        display: grid;
+        grid-row: 1;
+        margin-left: 20px;
+        margin-top: 5px;
+      }
+      .dice2{
+        height: 37.5px;
+        width: 37.5px;
+        outline: 2px solid black;
+        display: grid;
+        grid-row: 2;
+        margin-left: 20px;
+        margin-top: 35px;
+      }
+      .dice3{
+        height: 37.5px;
+        width: 37.5px;
+        outline: 2px solid black;
+        display: grid;
+        grid-row: 3;
+        margin-left: 20px;
+        margin-top: 65px;
+      }
+      .dice4{
+        height: 37.5px;
+        width: 37.5px;
+        outline: 2px solid black;
+        display: grid;
+        grid-row: 4;
+        margin-left: 20px;
+        margin-top: 95px;
+      }
+      .dice5{
+        height: 37.5px;
+        width: 37.5px;
+        outline: 2px solid black;
+        display: grid;
+        grid-row: 5;
+        margin-left: 20px;
+        margin-top: 125px;
+      }
