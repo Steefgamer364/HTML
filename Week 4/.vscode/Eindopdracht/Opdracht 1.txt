@@ -1,0 +1,50 @@
+1. Javascript word gebruikt voor interactieve dingen maken op een website. (knoppen enzo)
+2. Knoppen en dingen die je doet.
+3. Dat Javascript makelijker te lezen is dan andere code soorten.
+4. Je kan dingen doen in een web applicatie, niet in alleen een website.
+5. ECMAScript 6
+6. Gebruik of <script> of <src> en dan kan je de bijde files gebruiken. (of meer als je er meer hebt)
+7. De waarde van iets dat bepaald wat er gaat gebeuren.
+8. Een variable is een ding dat aangeeft wanneer iets gebeurt dus dingen zoals <if> of <else>.
+9. Een variable... MAAR MET EEN NAAM!?!?!?
+10. Ook
+11. Het zijn de regels.
+12. D
+13. D 
+14. Wanneer iets niet uitgerekend kan worden.
+15. Wanneer de code iets vergeet.
+16. Bij de een kan het gewoon niet uitgerekend worden en bij de ander kan het het gewoon niet vinden.
+17. Dingen zoals .Jpg of .PDF.
+18. Uitleggen wat iets doet, dingen documenteren en informatie over de info geven.
+19. Een is tussen haakjes.
+20. Een probleem dat gebeurt wanneer iets te ouds word gebruikt.
+21. A - 2
+    B - 1
+    C - 3
+22. Ja want er is daar niets echt tegen de wed.
+23. Ja want er is daar niets echt tegen de wed.
+24. Een ding dat allemaal dingen acties geeft.
+25. = betekent dat het iets is en == is dat een hetzelfde is als iets.
+26. 20
+27. 75
+28. 5
+29. 10
+30. 5
+31. 15
+32. 15
+33. 10
+34. 6
+35. 3
+36. 6.
+37. Dit kiest welke groep of welke volghoorde dingen worden gedaan.
+()
+(^)
+(-)
+(*, /)
+(+, -)
+(<, >, <=, >=, ==, !=)
+(&&, ||)
+(=)
+38. (+ & -)
+39. (C, C++)
+40. Assignment.
