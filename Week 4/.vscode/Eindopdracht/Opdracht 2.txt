@@ -1,5 +1,0 @@
-Er word "Great!" geprint.
-De age is hetzelfde of meer dan 18 dus dan print het great.
-Getresult checked de leeftijd en dan blijft het true, als het true is print het "Great!".
-
-Het print nog "Great!", het is nogsteeds 18+ maar het kan lager worden en dan kan het "Bit great" of "Not so great" worden.
